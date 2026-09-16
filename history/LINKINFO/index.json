@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "LINKINFO.dll",
+  "latest": "2458983031-5BA53657C4851D06C42FE0D77F578617-1",
+  "builds": [
+    {
+      "key": "2458983031-5BA53657C4851D06C42FE0D77F578617-1",
+      "timestamp": "2458983031",
+      "pdb_guid": "5BA53657C4851D06C42FE0D77F578617",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2458983031-5BA53657C4851D06C42FE0D77F578617-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
